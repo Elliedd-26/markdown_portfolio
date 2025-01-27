@@ -3,5 +3,5 @@ This is a paragaph
 
 [about_Me](index)
 [Works](works)
-[Education](eductaion)
+[Education](education)
 [Contact](contact)
